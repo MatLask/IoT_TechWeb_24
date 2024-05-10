@@ -20,4 +20,3 @@ class IndexController implements Controller {
 }
 
 export default IndexController;
-
